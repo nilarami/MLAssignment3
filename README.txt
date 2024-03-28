@@ -1,9 +1,8 @@
 # GT7641-MachineLearning
 
 ## Link 
-https://github.com/nilarami/590V-HackHer413/blob/master/ML_Assignment1_.ipynb 
-You can also open in Collaboatory to run. 
-The datasets are available in the dataset to run. 
+https://github.com/nilarami/MLAssignment3
+The datasets are available in the dataset to run. You can run any of these notebooks in Collab. 
 
 ## Usage
 Ensure required dependencies are installed (numpy, pandas, scikit-learn, matplotlib, seaborn).
